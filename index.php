@@ -1,2 +1,7 @@
-<?php include ("template/header.php");?>
-<?php include ("template/footer.php");?>
+<?php 
+include ("template/header.php");
+include ("template/footer.php");
+//просто балуюсь с гитом
+?>
+
+
